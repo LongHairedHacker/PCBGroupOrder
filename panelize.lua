@@ -5,11 +5,11 @@ local panelization = require 'boards.panelization'
 
 local mm = 1e9
 
-local simple = boards.load('./boards/simple/simple')
+local sss7 = boards.load('./boards/sss7modem/sss7modem')
 
 local layout = {
-	{simple, simple},
-	{simple, simple},
+	{sss7},
+	{sss7},
 }
 
 local panel = panelization.panelize(layout, {}, true)
