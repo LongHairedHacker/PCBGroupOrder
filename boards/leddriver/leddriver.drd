@@ -1,6 +1,6 @@
 M48
-;DRILL file {Pcbnew (2013-may-18)-stable} date Mon 01 Jun 2015 11:01:11 PM CEST
-;FORMAT={3:3/ absolute / metric / suppress leading zeros}
+;DRILL file {Pcbnew (2013-may-18)-stable} date Tue 26 May 2015 10:18:54 PM CEST
+;FORMAT={3:3/ absolute / metric / keep zeros}
 FMAT,2
 METRIC,TZ
 T1C0.635
